@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-33,
+				210
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "Twi_Idle_L"
+		},
+		{
+			"offsets": [
+				221,
+				186
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Twi_Down_L"
+		},
+		{
+			"offsets": [
+				-18,
+				189
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Twi_Left_L"
+		},
+		{
+			"offsets": [
+				-44,
+				337
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Twi_Up_L"
+		},
+		{
+			"offsets": [
+				-119,
+				222
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Twi_Right_L"
+		},
+		{
+			"offsets": [
+				14,
+				304
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "charge",
+			"indices": [],
+			"name": "Twi_Charge_L"
+		},
+		{
+			"offsets": [
+				-11,
+				211
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "shoot",
+			"indices": [],
+			"name": "Twi_Shoot_L"
+		},
+		{
+			"offsets": [
+				-18,
+				256
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "hehehe",
+			"indices": [],
+			"name": "Twi_HEHEHE_L"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PibbyTwilight_Laser",
+	"position": [
+		-20,
+		540
+	],
+	"healthicon": "twilightcrazy",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		115,
+		195
+	],
+	"camera_position": [
+		-80,
+		-540
+	],
+	"sing_duration": 4,
+	"scale": 4
+}

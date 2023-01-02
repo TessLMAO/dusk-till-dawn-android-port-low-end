@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				109
+			],
+			"anim": "singDOWN",
+			"fps": 15,
+			"name": "Pink_Down ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				250
+			],
+			"anim": "idle",
+			"fps": 15,
+			"name": "Pink_Idle ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				121,
+				175
+			],
+			"anim": "singLEFT",
+			"fps": 15,
+			"name": "Pink_Left ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-152,
+				290
+			],
+			"anim": "singUP",
+			"fps": 15,
+			"name": "Pink_Up ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				259
+			],
+			"anim": "singRIGHT",
+			"fps": 15,
+			"name": "Pink_Right ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				250
+			],
+			"anim": "idle-alt",
+			"fps": 15,
+			"name": "Pink_Idle_",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				96
+			],
+			"anim": "singDOWN-alt",
+			"fps": 15,
+			"name": "Pink_Down_",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				121,
+				175
+			],
+			"anim": "singLEFT-alt",
+			"fps": 15,
+			"name": "Pink_Left_",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-152,
+				290
+			],
+			"anim": "singUP-alt",
+			"fps": 15,
+			"name": "Pink_Up_",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-172,
+				259
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 15,
+			"name": "Pink_Right_",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				92,
+				335
+			],
+			"anim": "awesome",
+			"fps": 15,
+			"name": "Pink_Awesome",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				357,
+				291
+			],
+			"anim": "scream",
+			"fps": 15,
+			"name": "Pink_AAA",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SurvivorPinkie",
+	"position": [
+		490,
+		660
+	],
+	"healthicon": "triplefun",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-1200,
+		-760
+	],
+	"sing_duration": 4,
+	"scale": 4
+}

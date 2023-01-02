@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-25,
+				120
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF_Idle"
+		},
+		{
+			"offsets": [
+				101,
+				90
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF_Left"
+		},
+		{
+			"offsets": [
+				2,
+				84
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF_Down"
+		},
+		{
+			"offsets": [
+				-26,
+				230
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF_Up"
+		},
+		{
+			"offsets": [
+				-34,
+				92
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF_Right"
+		},
+		{
+			"offsets": [
+				106,
+				80
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "scared",
+			"indices": [],
+			"name": "BF_Spooked"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SurvivorBF",
+	"position": [
+		150,
+		510
+	],
+	"healthicon": "bfpibby",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		140,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 4
+}

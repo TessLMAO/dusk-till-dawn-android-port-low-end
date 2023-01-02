@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-33,
+				210
+			],
+			"loop": true,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "Twi_Idle_S"
+		},
+		{
+			"offsets": [
+				241,
+				216
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Twi_Down_S"
+		},
+		{
+			"offsets": [
+				8,
+				202
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Twi_Left_S"
+		},
+		{
+			"offsets": [
+				-17,
+				341
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Twi_Up_S"
+		},
+		{
+			"offsets": [
+				-94,
+				249
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Twi_Right_S"
+		},
+		{
+			"offsets": [
+				-20,
+				184
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Twi_Idle_M"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				190
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Twi_Down_M",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				210
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Twi_Left_M",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				428
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Twi_Up_M",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				170
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Twi_Right_M",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PibbyTwilight_SM",
+	"position": [
+		130,
+		530
+	],
+	"healthicon": "twilight",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		115,
+		195
+	],
+	"camera_position": [
+		-370,
+		-410
+	],
+	"sing_duration": 4,
+	"scale": 4
+}
