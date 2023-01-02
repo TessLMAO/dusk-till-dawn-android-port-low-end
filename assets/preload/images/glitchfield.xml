@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="glitchfield.png">
+	
+	
+	<SubTexture name="the filter instance 10000" x="1" y="1" width="320" height="180" />
+	<SubTexture name="the filter instance 10001" x="321" y="1" width="320" height="180" />
+	<SubTexture name="the filter instance 10002" x="642" y="1" width="320" height="180" />
+	<SubTexture name="the filter instance 10003" x="1" y="181" width="320" height="180" />
+	<SubTexture name="the filter instance 10004" x="321" y="181" width="320" height="180" />
+</TextureAtlas>
